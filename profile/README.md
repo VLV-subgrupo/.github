@@ -9,3 +9,4 @@ O subgrupo VLV é composto pelos seguintes componentes:
 Os laboratórios serão enviados no repositório [labs](https://github.com/VLV-subgrupo/labs), os quais são:
 
 * [lab02](https://github.com/VLV-subgrupo/labs/tree/main/lab02)
+* [lab03](https://github.com/VLV-subgrupo/labs/tree/main/lab03)
