@@ -13,3 +13,4 @@ Os laboratórios serão enviados no repositório [labs](https://github.com/VLV-s
 * [lab04](https://github.com/VLV-subgrupo/labs/tree/main/lab04)
 * [lab05](https://github.com/VLV-subgrupo/labs/tree/main/lab05)
 * [lab06](https://github.com/VLV-subgrupo/labs/tree/main/lab06)
+* [lab07](https://github.com/VLV-subgrupo/labs/tree/main/lab07)
