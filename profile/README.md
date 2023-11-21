@@ -1,10 +1,10 @@
 # Equipe LAMEV
-# Subgrupo VLV
-O subgrupo VLV é composto pelos seguintes componentes:
+
+# Subgrupo B (VLV)
 
 * Luiz Guilherme Sousa Nascimento (230667)
-* Vitor Paziam Magalhães (238316)
 * Victor Wu (231467)
+* Vitor Paziam Magalhães (238316)
 
 Os laboratórios serão enviados no repositório [labs](https://github.com/VLV-subgrupo/labs), os quais são:
 
@@ -14,3 +14,4 @@ Os laboratórios serão enviados no repositório [labs](https://github.com/VLV-s
 * [lab05](https://github.com/VLV-subgrupo/labs/tree/main/lab05)
 * [lab06](https://github.com/VLV-subgrupo/labs/tree/main/lab06)
 * [lab07](https://github.com/VLV-subgrupo/labs/tree/main/lab07)
+* [lab08](https://github.com/VLV-subgrupo/labs/tree/main/lab08)
